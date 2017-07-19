@@ -6,7 +6,7 @@ blurb: Identifying the right problem
 ---
 # What it means
 Use our knowledge and interaction with the user to make sure that we’re solving the right problem.
-
+{% include image name="ux-fundamentals/understand.png" style="max-width:256px;margin-top: 40px"%}
 # How we do it
 ## Getting started
 How do you turn ideals into action? Design isn’t an exact science. Think in terms of rules of thumb and general flow. Expect uncertainty and get started.

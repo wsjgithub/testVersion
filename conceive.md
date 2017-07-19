@@ -7,6 +7,8 @@ blurb: Innovating to solve the problem
 # What it means
 What you learn  in the Understand phase will guide you to the solution that meets functional needs and works well for the user.
 
+{% include image name="ux-fundamentals/conceive.png" style="max-width:256px;margin-top: 40px"%}
+
 # How we do it
 ## Expectations and outputs
 Entering the conceive stage, you have a clear design challenge and a team with  experience working together. Exiting this second stage, you’ll have designed the solution, and we’re ready to start developing the product.
