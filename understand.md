@@ -9,7 +9,7 @@ Use our knowledge and interaction with the user to make sure that we’re solvin
 
 # How we do it
 ## Getting started
-How do you turn ideals into action? Design isn’t an exact science. Think in terms of rules of thumb and general flow. Expect uncertainty and get started.
+How do you turn ideas into action? Design isn’t an exact science. Think in terms of rules of thumb and general flow. Expect uncertainty and get started.
 
 Here’s how:
 - Plan how you’ll engage users
@@ -72,7 +72,7 @@ Whether you’re doing interviews or engaging customers in a participatory desig
 - Analyzing and synthesizing findings: 1 week
 
 ## Research information and contacts
-The [Akamai Community](https://community.akamai.com/){:target="_blank"} and [existing research programs at Akamai](mailto:janderso@akamai.com) are good sources of secondary information about users. The UXD Research team can also advise you on selecting, recruiting, and including users in your product design. You can contact [Jenn Anderson](mailto:janderso@akamai.com), UX Research Director, or [Paula Mason](mailto:pamason@akamai.com), UX Researcher and Recruiter for additional guidance on research strategies and recruiting support.
+The [Akamai Community](https://community.akamai.com/){:target="_blank"} and [existing research programs at Akamai](mailto:janderso@akamai.com) are good sources of secondary information about users. The UXD research team can also advise you on selecting, recruiting, and including users in your product design. You can contact [Jenn Anderson](mailto:janderso@akamai.com), UX Research Director, or [Paula Mason](mailto:pamason@akamai.com), UX Researcher and Recruiter, for additional guidance on research strategies and recruiting support.
 
 ## Tools and techniques
 Your team’s expertise, design challenge, and schedule will influence which tools you use. Below are brief descriptions for many common techniques, and links to additional materials including templates and guidelines for their use.
@@ -83,7 +83,7 @@ Interviews give qualitative and detailed info about whys and hows of people’s 
 [Guide to Interviewing Customers](/downloads/interview-guidelines.pdf){:target="_blank"}
 
 ## Journey maps
-Journey maps capture users’ engagement with the company, its people, systems, and products across the business lifecycle. The journey map captures contact points, user emotions, thoughts, and interactions.
+Journey maps capture users’ engagement with the company, its people, systems, and products, across the business lifecycle. The journey map captures contact points, user emotions, thoughts, and interactions.
 
 [Journey Map Template](/downloads/JourneyMap.pdf){:target="_blank"}
 
@@ -115,7 +115,7 @@ A Day in the Life depiction shows what a typical day looks like for the user: wh
 [Day in the Life Template](/resources/downloads)
 
 ## Kano model
-The Kano model prioritizes product features and attributes. It  can be used to classify features into those that are basic or essential, those that will increase customer satisfaction linearly, those  that will delight the customer and differentiate the product, and those that are non-essential features and should be disregarded.
+The Kano model prioritizes product features and attributes. It can be used to classify features into those that are basic or essential, those that will increase customer satisfaction linearly, those that will delight the customer and differentiate the product, and those that are non-essential and should be disregarded.
 
 [Kano Model Template](/downloads/KanoModel.pdf){:target="_blank"}
 
@@ -125,10 +125,10 @@ The project brief is a concise description of the project. It serves as an eleva
 [Project Brief Template](/downloads/ProjectBrief.pdf){:target="_blank"}
 
 # Moving forward
-Working through the Understand stage gives insights to use in the Conceive stage. There is judgment involved in switching phases, and you may overlap them as you work. In general, you should be taking on Conceive activities when you have:
+Working through the Understand stage gives insights to use in the Conceive stage. There is judgment involved in switching stages, and you may overlap them as you work. In general, you should be taking on Conceive activities when you have:
 - A shared understanding of the user, business goals, and project constraints as captured in the project brief.
 - Identified or created the core persona(s) relevant to your design.
-- Represented what users think, say, do, and feel in the context of using the product in an empathy map.
-- Documented the key points in the user’s engagement with the product and their touchpoints and emotion in a journey map.
+- Represented what users think, say, do, and feel in the context of using the product, in an empathy map.
+- Documented the key points in the user’s engagement with the product and their touchpoints and emotion, in a journey map.
 - Prioritized features and functionality using a Kano model analysis.
 Remember that this is a rough guideline. You may not require all of these artifacts for your project, and you may have information from other tools and sources. Move into the Conceive stage when you know and understand your users and how the product provides value to them and the business.
